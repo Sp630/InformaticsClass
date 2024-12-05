@@ -63,15 +63,5 @@ public class GuessingGameUI {
             }
         });
 
-
-/* TASK: Improve this game by adding another button to reset and to decrement the counter.
-Your GUI should look like this:
-
-------------
-0
-|+| |-| |reset|
-------------
-
-*/
     }
 }
