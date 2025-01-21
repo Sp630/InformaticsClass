@@ -8,7 +8,6 @@ public class ProductProject {
 
         //GUI
         JFrame frame = new JFrame("Manager");
-        //JLabel showCLicks = new JLabel("Enter a number from 1 to 100 below: ");
         JTextField nameField = new JTextField("Name");
         nameField.setPreferredSize(new Dimension(60, 30));
         JTextField priceField = new JTextField("Price");
@@ -18,8 +17,6 @@ public class ProductProject {
         JButton addButton = new JButton("Add");
         JButton updateButton = new JButton("Update");
         JButton displayButton = new JButton("Display Inventory");
-        //JTextField output = new JTextField();
-        //output.setPreferredSize(new Dimension(300, 120));
         JTextArea output = new JTextArea();
         output.setPreferredSize(new Dimension(300, 120));
         output.setEditable(false);
