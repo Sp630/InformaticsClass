@@ -1,4 +1,5 @@
 public class Class04_12_24 {
+    /*
     public static void main(String[] args) {
         Habitat savanna = new Habitat("Savanna", "medium", 27);
         Habitat grassland = new Habitat("Grassland", "large", 16);
@@ -94,4 +95,6 @@ class Staff{
         assignedHabitat = habitat;
         System.out.println(name + " is assigned to " + habitat.type + ".");
     }
+
+     */
 }
